@@ -7,7 +7,7 @@
   "admins": [
     {
       "name": "iron",
-      "user-id": "82B8D4E79D0C05A1",
+      "user-id": "B1EB2FAB87EF8D40",
       "discord-id": "1278132746543169630"
     },
     {
@@ -22,11 +22,7 @@
     }
   ],
   "super-admins": [
-     {
-      "name": "iron",
-      "user-id": "B1EB2FAB87EF8D40",
-      "discord-id": "1278132746543169630"
-    },
+  
   ],
   "owners": [
     "Iron"
