@@ -23,10 +23,11 @@
     ""
   ],
   "owners": [
-   "name": "iron",
-      "user-id": "B1EB2FAB87EF8D40",
-      "discord-id": "1278132746543169630"
-  ],
+  {
+   "name": "testofficialxd",
+      "user-id": B1EB2FAB87EF8D40",
+      "discord-id": "1244744453990776932"
+],{
   "april_fools": {
     "sex": false
   },
