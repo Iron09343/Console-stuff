@@ -7,7 +7,7 @@
   "admins": [
     {
       "name": "iron",
-      "user-id": "59C592C413E4C268",
+      "user-id": "",
       "discord-id": "1278132746543169630"
     },
     {
@@ -25,7 +25,7 @@
     ""
   ],
   "owners": [
-
+     "iron"
   ],
   "april_fools": {
     "sex": false
