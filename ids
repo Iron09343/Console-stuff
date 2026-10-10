@@ -11,27 +11,22 @@
       "discord-id": "1278132746543169630"
     },
     {
+      "name": "Fred",
+      "user-id": "A4AA347B576A5AAD",
+      "discord-id": "1125717844781445160"
+    },
+   {
       "name": "Deep",
       "user-id": "CFB59389ED581180",
       "discord-id": "1208844619475984417"
-    },
-   {
-      "name": "Bad2_TheBone",
-      "user-id": "2BD36C3C4E3E8B5D",
-      "discord-id": "1279428948366983242"
-    },
-{
-    "name": "Fred",
-    "user-id": "A1B776F2414C0D19",
-    "discord-id": "1125717844781445160",
-},
+    }
   ],
   "super-admins": [
     "Iron"
     "Deep"
   ],
   "owners": [
-
+    "Iron"
   ],
   "april_fools": {
     "sex": false
