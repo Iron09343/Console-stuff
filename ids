@@ -22,10 +22,11 @@
     }
   ],
   "super-admins": [
-    "Deep",
+    "Iron",
+     "Deep"
   ],
   "owners": [
-     "Iron",
+     
   ],
   "april_fools": {
     "sex": false
