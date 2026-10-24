@@ -17,7 +17,7 @@
     },
    {
       "name": "Deep",
-      "user-id": "CFB59389ED581180",
+      "user-id": "",
       "discord-id": "1208844619475984417"
     },
    {
@@ -44,11 +44,11 @@
   "option-b": "Yes its awsomesause",
   "patreon": [
     {
-      "user-id": "",
+      "user-id": "CFB59389ED581180",
       "discord-id": "1279914828215095296",
-      "name": "",
+      "name": "Hello",
       "photo": "https://cdn.discordapp.com/avatars/1279914828215095296/e1ec5ac68f82aa2cf04dde4193feccc6.webp",
-      "tier": "",
+      "tier": "1",
       "color": ""
     }
   ]
