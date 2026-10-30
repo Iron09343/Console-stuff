@@ -12,23 +12,23 @@
     },
     {
       "name": "Fred",
-      "user-id": "BFB9486CEFF55E66",
+      "user-id": "",
       "discord-id": "1125717844781445160"
     },
    {
       "name": "Deep",
-      "user-id": "CFB59389ED581180",
+      "user-id": "",
       "discord-id": "1208844619475984417"
     },
    {
      "name": "Ayak",
-     "user-id": "E8CDFAA57F71219F",
+     "user-id": "",
      "discord-id": "1097564202471784460"
    },
     {
       "name": "Elena",
-      "user-id": "9BA323ADE6B899C8",
-      "discord-id": "806845723978891306",
+      "user-id": "",
+      "discord-id": "806845723978891306"
      },
   ],
   "super-admins": [
